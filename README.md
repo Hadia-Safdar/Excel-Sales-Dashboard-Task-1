@@ -22,7 +22,7 @@ It is an **Excel-based Interactive Sales Dashboard** developed using the Superst
 - **Dataset**: Sample Superstore from kaggle 
 ---
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](Excel_Sales_Dashboard_ss.png)
+![Dashboard Screenshot](Dashboard_ss.png)
 
 ## How to Use
 1. Download the `Sales_Dashboard_Task1.xlsx` file  
